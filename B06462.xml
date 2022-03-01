@@ -1,0 +1,245 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The virtues and uses of the cordial spirit of saffron</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B06462</idno>
+            <idno type="STC">Wing V647A</idno>
+            <idno type="STC">ESTC R186048</idno>
+            <idno type="EEBO-CITATION">52529352</idno>
+            <idno type="OCLC">ocm 52529352</idno>
+            <idno type="VID">179207</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B06462)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 179207)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2780:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The virtues and uses of the cordial spirit of saffron</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed by R. Everingham at the Seven Stars in Ave-Mary Lane,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1680]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Publication date from Wing.</note>
+                  <note>In two columns.</note>
+                  <note>With a list of coffee-houses which serve saffron tonics.</note>
+                  <note>Imperfect: torn, cropped at foot with slight loss of text.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Saffron (Spice) --  Therapeutic use --  Early works to 1800.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:179207:1"/>
+            <head>The VIRTUES and USES of <hi>The Cordial Spirit of Saffron.</hi>
+            </head>
+            <head type="sub">
+               <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> be taken two three or four Spoonfuls at a time, according as the Stomach is more or leſs indiſpoſed, and moſt eſpecially in a Morning after a heat of Wine overnight, walking after it, which effectually cuts the Phlegme, chear<g ref="char:EOLhyphen"/>eth the Spirits diſſipates the Cloudy Vapours diſturbing the Brain, whets an appetite for Dinner; the reſt ot the admirable Virtues of <hi>SAFFRON</hi> and this Spirit enſue.</head>
+            <p>SAFFRON it ſelf is of ſuch excellent virtue and of ſo great uſe among many Nations, as <hi>Germans, Polanders, Hungarians, Bohemians, Sclavonians, Croats, Turks,</hi> and divers others, that they commonly boil no Fleſh, no Fiſh, no Milk, no Herb, or any thing elſe fit for Meals, without ſome Saffron, which they do, both to cauſe the better Concoction of the Dyet, and to make their own Spirits chearful, and to preſerve themſelves anainſt the injury of corrupted Air, or againſt the violence of any Diſtemper: Wherefore the Spirit well made of it, is of ſuch virtue, and of ſo high eſteem in Phyſik, that it is thught almoſl alone to be ſuffient againſt any Diſtemper.</p>
+            <p>MOreover the Spirit of <hi>Saffron</hi> (taken according to the Directions near the end of this Paper) is of ſingular uſe in the following Diſtempers. <hi>viz.</hi>
+            </p>
+            <p>
+               <hi>Conſumption,</hi> It ſo helpeth, that by the bleſſing of God it eaſily reſtoreth the Patient to perfect Health; for it ripeneth the Ulcers of the Lungs, cleanſeth, and with a gentle Adſtringency and In<g ref="char:EOLhyphen"/>sernative faculty healeth them; it mitigates the Cough, takes away the Diſtillations of the Brain, and amends the ſalt and ſharp humours.</p>
+            <p>
+               <hi>Aſlbm<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> that is, Difficulty of Breathing, and Phtyſical (or Tiffical) Perſons it much helpeth; for it concocts, ripeneth, and conſumeth the crude and groſs humours ſticking to the Lungs, and reſtoreth to them the faculty of eaſie breathing.</p>
+            <p>
+               <hi>Melancholy, and ſad Conſtitutions</hi> it greatly comforts; for it amends the faults of the Liver and Gall: it diſſipates the Hypocondriack flatu<g ref="char:EOLhyphen"/>lency, it ſtrengthneth and comforts the Heart, and wonderfully cauſeth Mirth.</p>
+            <p>
+               <hi>Swooning,</hi> herein it is highly worthy of praiſe; for it happily re<g ref="char:EOLhyphen"/>ſtoreth the Spirits that are loſt by their vaniſhing away through the pores of the Body, by their exceeding ſubtilty and volatility, &amp;c.</p>
+            <p>
+               <hi>Apoplexie,</hi> herein it hath a great Power, for it helpeth the Brain, and ſtrengthneth the ſame, aſſwaging the Phlegmatick and groſs humours, ſwelling with Wind, and waſting with Acidity the Muſcles, and Nerves, freeth the obſtructed paſſages of the Spirits, and ſhakes off deep and profound drowſineſs.</p>
+            <p>
+               <hi>Yellow Jaundice,</hi> the Spirit of Saffron, with equal quantity of Juice of Lemmons or Water of Sorrel, and ſweetned with a little Sugar, is an eſpecial remedy: for it openeth the obſtructions of the Liver and Gall, and by natural property from all parts of the Body draweth the Choler, altereth it, and expels it by Urine; whence enſues a beauti<g ref="char:EOLhyphen"/>ful ruddy, healthy Complexion.</p>
+            <p>
+               <hi>Plague, Meaſles, and Small Pox.</hi> Both to prevent them, and expel them, its Uſe is frequently known; for it is of ſubtle parts, and eaſily pene<g ref="char:EOLhyphen"/>trates, and cauſeth Sweat.</p>
+            <p>
+               <hi>Agues.</hi> In the Cold Fit it may be taken with great Comfort to the Patient.</p>
+            <p>
+               <hi>Strangury, Stone, and Gravel.</hi> It is of great Worth; for it openeth the Obſtructions of the Urinal Paſſages, aſſwageth the acrimony of the Hu<g ref="char:EOLhyphen"/>mours, forceth Urin, Gravel, and ſmall Stones, and takes away the Pain.</p>
+            <p>
+               <hi>For Womens Terms, and Women in Child-bed,</hi> It is a Noble Cordial, It is likewiſe a great Enemy to Barenneſs, and highly provoketh Venery.</p>
+            <p>
+               <hi>Looſneſs, Bloody Flux, Griping of the Guts.</hi> It is very profitable againſt theſe Diſtempers, for it concoct the raw Phlegm about the Belly and ſmall Guts, that cauſeth looſneſs: It corrects the acrimony and ſharp<g ref="char:EOLhyphen"/>neſs of Humours that irritate and force Nature to go to ſtool often. It ſtrengthneth the Bowels, and healeth the Ulcers-of the ſame.</p>
+            <p>
+               <hi>Empyema or Impoſtume,</hi> newly begun in the ſide, it helpeth very much, for it eaſily diſperſeth the gathered Humours and flatulency or windineſs therein.</p>
+            <p>
+               <hi>Trembling of heart</hi>: It is very good for them that are troubled with trembling of Heart, for it allayeth the vehement fermentation of Blood; it diſſipates the thick and groſs vapours encloſed in and about the Heart, and it reſtoreth chearfulneſs to the ſame.</p>
+            <p>
+               <hi>Pains, Dulneſs of Hearing, and Noiſe of Ears,</hi> are remedied by this Spirit; for it diſperſeth the groſs Humours gathered about the Tympanum of the Ears, and diſſipates the flatulency encloſed in the Brain, if ſome Drops thereof be mixed with Womans Milk, or Oyl of Bitter Almonds. It alſo ripeneth, breaketh, cleanſeth, and healeth Ulcers in the Ears, if it be dropped into a roaſted Onyon, and be applied to the Ears.</p>
+            <p>
+               <hi>Scurvey.</hi> This Spirit is moſt excellent to prevent this Diſtemper, ſo epidemical and common, that it becomes the Spring or Cauſe of many Diſeaſes that perplex Mankind; it likewiſe in a great meaſure cures it, and for this end is carried to Sea, for long Voyages, through hot Climates, and is known to reſtore the Native Vigour, with a good Countenance.</p>
+            <p>
+               <hi>Weakneſs of Stomach, and an inclination to Vomit often,</hi> it wonderfully help<g ref="char:EOLhyphen"/>eth, for it concocts, diſſipateth, and conſumeth the raw humours, diſ<g ref="char:EOLhyphen"/>perſeth the flatulency, ſtrengtheneth the Stomach, brings a good appetite, and cauſeth good digeſtion.</p>
+            <p>
+               <hi>In a Baſtard Pluriſie</hi> it is an excellent Remedy, for it openeth the Breaſt, cuts the Phlegm in it, expelleth the Wind, and freeth the Lungs from all Obſtructions.</p>
+            <p>
+               <hi>Colds, Indiſpoſition of Body.</hi> Take a Spoonful or two in a Morning; for it concocts the Humours in the Stomach, amends the ſharpneſs of them, and diſſolves the Phlegm: Yea, this Spirit of Saffron is of ſo general Uſe, that it may be mixed with any Phyſick, proper for any Diſtemper, to increaſe its Operating Faculty.</p>
+            <p>
+               <hi>Note,</hi> A Man or Woman of Age, labouring under the ſaid Diſtempers, may take one or two Spoonfuls of this Spirit at a time, by it ſelf, if they be not in burning or Hectick Fevers; but if ſo, let them mix it with ſome cooling Drink, or Syrrups proper for thoſe Diſtempers, and take little Quantities of it four times a day, to wit, early in the Morning, between Meals, and late at Night when they go to Bed.</p>
+            <argument>
+               <p>The Virtues and Uſes of this Spirit of Saffron are taken out of a Letter or Manuſcript of a moſt Learned and long experienced <hi>German</hi> Phyſician, <hi>G. Agri<g ref="char:EOLhyphen"/>cola,</hi> communicated to a Friend of his here, in regard <hi>England</hi> yields the beſt Saffron in the World, and makes the leaſt uſe of it, in reference to their own Health.</p>
+            </argument>
+            <byline>Tranſlated and Publiſhied by <hi>John Collins</hi> e Reg. Soc. Philo<g ref="char:EOLhyphen"/>math.</byline>
+         </div>
+         <div type="list_of_sellers">
+            <list>
+               <head>The Coffee-Houſes following are furniſhed therewith.</head>
+               <item>Mr. Alexander Man <hi>at</hi> Charing Croſs.</item>
+               <item>Mr. Vigures <hi>in the Old</hi> Palace-Yard Weſtminſter.</item>
+               <item>Mr. Brewens <hi>near</hi> Guild-Hall.</item>
+               <item>Mr. Samuel Booth <hi>in</hi> Ave-Mary Lane.</item>
+               <item>Mr. Richard Torvers <hi>at</hi> Temple-Barr.</item>
+               <item>Mr. Ward <hi>in</hi> Bread-Street.</item>
+               <item>Mr. Earling <hi>in</hi> Bow-Street Common-Garden.</item>
+               <item>Mr. <hi>Thomas Stroud,</hi> at the Corner of the <hi>Pall-Mall,</hi> againſt St. <hi>James</hi>'s.</item>
+               <item>Mr. John Dicas <hi>in</hi> Fullers Rents <hi>near</hi> Grays-Inn.</item>
+               <item>Mr. Henry Gardiner at <hi>St.</hi> Mary-Overy's Dock.</item>
+               <item>Mr. Bond <hi>at</hi> Leaden-Hall.</item>
+               <item>Mr. Ogdon <hi>without</hi> Algate.</item>
+               <item>Mr. Woolfe <hi>at the</hi> Still-yard.</item>
+               <item>Mr. John Smithiers <hi>againſt the</hi> Cuſtom-houſe.</item>
+               <item>Mr. John Painter <hi>in</hi> Newmans Court, Cornhill.</item>
+               <item>Mr. Richard Rogerſon <hi>behind the</hi> Exchange.</item>
+               <item>Mr. <hi>Kidd</hi> in <hi>Bartholomew-Lane</hi> behind the <hi>Exchange.</hi>
+               </item>
+               <item>Mr. Thomas Nicholſon <hi>in</hi> Birching Lane.</item>
+               <item>Mr. Tobias Collier <hi>in</hi> Pye-Corner.</item>
+               <item>Widdow Ward <hi>on</hi> Snow Hill.</item>
+               <item>Mr. James Probut, <hi>at the</hi> Rainbow <hi>at the Corner of St.</hi> Martins Lane.</item>
+               <item>Mr. Heyrick, <hi>at the Corner of</hi> Charter-houſe <hi>Lane.</hi>
+               </item>
+               <item>Mr. Heavyſides <hi>in</hi> Hart-ſtreet <hi>without</hi> Newgate.</item>
+               <item>Widdow Soame <hi>againſt the</hi> Boars-head <hi>in</hi> Eaſt-cheape.</item>
+               <item>Mr. John Knight <hi>at the Corner of</hi> Cow-Lane.</item>
+               <item>Mr. George Daſſin <hi>againſt</hi> Lincolns-Inn.</item>
+               <item>Mr. Richard Lyon <hi>againſt</hi> Doctors-Commons.</item>
+               <item>Mr. Tounſend, <hi>in</hi> Fryday-ſtreet.</item>
+               <item>Mr. Richard Tart <hi>in St.</hi> Bartholomews <hi>Court</hi> Smithfield.</item>
+               <item>Mr. <hi>George Marmion</hi> in St. <hi>Martins le Grand,</hi> at the Harrow.</item>
+               <item>Mr. Kiſtel, <hi>near the</hi> Naggs-head, Cheapſide.</item>
+               <item>Mr. Shipton <hi>at</hi> Fleet-Ditch, <hi>near the</hi> Derby-Ale-houſe.</item>
+               <item>Mr. Philip Preſton <hi>at</hi> Exeter <hi>Exchange.</hi>
+               </item>
+               <item>Mrs. Foord <hi>in</hi> Devereux <hi>Court, near</hi> Effex-build<g ref="char:EOLhyphen"/>ings.</item>
+               <item>Mr. Sydenham <hi>in</hi> Mark-Lane, <hi>near the Navy-Office.</hi>
+               </item>
+               <item>Mr. Benning <hi>next the</hi> Bull-Head <hi>in</hi> Cheapſide.</item>
+               <item>Mr. <hi>Robert Woolgar</hi> in <hi>Jewen-Street.</hi>
+               </item>
+               <item>Widdow <hi>Graces</hi> Coffee-houſe in <hi>Clare-Market.</hi>
+               </item>
+            </list>
+            <list>
+               <head>The following Perſon are likewiſe ſupplyed therewith for Sale.</head>
+               <item>Mr. <hi>Robert Horn,</hi> Stationer, at the South-En<g ref="char:EOLhyphen"/>trance of the <hi>Royal Exchange.</hi>
+               </item>
+               <item>Mr. John Lands, <hi>Barber-Chyrurgeon, at the Corner of</hi> Ironmonger-Lane, <hi>next</hi> Guild-Hall.</item>
+               <item>Mr. <hi>Collins,</hi> Bookſeller, at the <hi>Middle-Temple-Gate.</hi>
+               </item>
+               <item>Mr. <hi>Clavel,</hi> Bookſeller, at the Weſt-end of St. <hi>Paul</hi>'s.</item>
+               <item>Mr. <hi>William Miller,</hi> Bookſeller, againſt the lit<g ref="char:EOLhyphen"/>tie North-door of St. <hi>Paul</hi>'s Church.</item>
+               <item>Mr. <hi>John Seller,</hi> the Kings Hydrographer, at the <hi>Hermitage</hi> Stairs in <hi>Wapping,</hi> and at his Shop on the Weſt-ſide of the <hi>Royal-Exchange.</hi>
+               </item>
+               <item>Mr. John Playford <hi>Bookſeller, near the</hi> Temple-Church.</item>
+               <item>Mr. Thomas Glover, Taylor, <hi>at the</hi> Blew Pales <hi>in</hi> Petty-France Weſtminſter.</item>
+               <item>Mr. Northcot <hi>Bookſeller next the</hi> Hoop-Tavern <hi>at the</hi> Bridge-foot.</item>
+               <item>Mr. <hi>Thomas Flowre,</hi> Clerk of St. <hi>Katherines Cole<g ref="char:EOLhyphen"/>man,</hi> in <hi>Magpy-Alley</hi> in <hi>Fanchurch-ſtreet.</hi>
+               </item>
+               <item>Mr. Edward Painter, <hi>Shoomaker in</hi> Catt-ſtreet, Oxford.</item>
+            </list>
+            <p>The ſaid SPIRIT is diſtilled from the beſt ſort of <hi>Wine</hi> and <hi>Saffron,</hi> and is to be had at the Houſe of Mr. <hi>Randal Taylor,</hi> Beadle of the <hi>Stationers</hi> Company, near their Hall by <hi>Ludgate</hi>; from whence the aboveſaid Coffee-Houſe, &amp;c. were furniſhed therewith: and is sold in Bottles ſealed up, the half-Pint Bottle at the Shilling three Penee, the Pint Bottle Half a Crown, and Wuart Bottle a Crown.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>LONDON, Printed by R. Everingham at the Seven Stars in Ave-Mary Lane.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
